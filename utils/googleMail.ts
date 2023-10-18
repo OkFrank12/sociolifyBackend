@@ -3,7 +3,7 @@ import path from "path";
 import ejs from "ejs";
 import { google } from "googleapis";
 
-const baseURL: string = "http://localhost:5173";
+const baseURL: string = "https://sociolify-client.web.app";
 const baseURL1: string = "http://localhost:1000";
 
 const G_ID =
